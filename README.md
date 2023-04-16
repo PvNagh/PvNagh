@@ -1,6 +1,7 @@
 <div align="center">
 <div id="header" align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Ayush+Trivedi....;Nice+to+meet+you!&center=true&size=25" width="370"/>
+  
 </div>
   
 <div id="badges">
@@ -19,11 +20,11 @@
 
 ### :man_technologist: About Me :
 
-:classical_building: I’m currently pursuing **B.Tech in Chemical Engineering** from **IIT Roorkee**.
+:classical_building: Pursuing **B.Tech in Chemical Engineering** from **IIT Roorkee**.
 
-:computer: I'm currently enjoying and learning **Web Development**.
+:computer: Enjoying and learning **Development**.
 
-:zap: In my free time, I enjoy watching movies.
+☕: Freshly brewed Coffee anyday.
 
 :mailbox: How to reach me: **ayushtrivedi2955@gmail.com**.
 
@@ -46,7 +47,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;     
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  alt="Docker" width="40" height="40" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg"  alt="Mocha" width="40" height="40" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"  alt="Bash" width="40" height="40" />&nbsp;
 </div>
 
 ---
@@ -56,4 +59,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PvNagh&theme=dark&border_radius=5.1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PvNagh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
