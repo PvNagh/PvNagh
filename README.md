@@ -22,10 +22,6 @@
 
 :classical_building: Pursuing **B.Tech in Chemical Engineering** from **IIT Roorkee**.
 
-:computer: Enjoying and learning **Development**.
-
-☕: Freshly brewed Coffee anyday.
-
 :mailbox: How to reach me: **ayushtrivedi2955@gmail.com**.
 
 ---
